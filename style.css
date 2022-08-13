@@ -13,3 +13,19 @@
     color: lightgrey;
     padding-right: 10px;
 }
+
+.slide-hight {
+    max-height: 550px;
+}
+
+.carousel-item {
+    opacity: 1.0;
+}
+
+.carousel-caption {
+    opacity: 1.5;
+}
+
+.card-img {
+    opacity: 0.5;
+}
