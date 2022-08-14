@@ -65,3 +65,21 @@
 .back-clr {
     background-color: rgb(248, 245, 241);
 }
+
+.Catagorie {
+    text-align: start;
+    border-bottom: dashed 2px grey;
+    margin-top: 8px;
+    font-size: 20px;
+    color: rgb(8, 8, 31);
+}
+
+.c-hover:hover {
+    background-color: #f09e06;
+    color: white;
+}
+
+.rotate:hover {
+    transform: rotate(1.0);
+    transition: 0.5s;
+}
