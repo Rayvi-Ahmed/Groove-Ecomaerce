@@ -83,3 +83,13 @@
     transform: rotate(1.0);
     transition: 0.5s;
 }
+
+.fa-star {
+    color: gold;
+    font-size: 15px;
+}
+
+.fa-star-half-stroke {
+    color: gold;
+    font-size: 15px;
+}
