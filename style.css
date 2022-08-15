@@ -18,9 +18,7 @@
     padding-right: 10px;
 }
 
-.slide-hight {
-    max-height: 650px;
-}
+
 
 .carousel-item {
     opacity: 1.0;
@@ -101,4 +99,12 @@
 
 .team {
     margin-top: 40px;
+}
+
+.icon {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-left: 10px;
+
 }
