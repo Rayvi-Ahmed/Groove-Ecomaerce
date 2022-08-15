@@ -68,10 +68,9 @@
 
 .Catagorie {
     text-align: start;
-    border-bottom: dashed 2px grey;
-    margin-top: 8px;
-    font-size: 20px;
-    color: rgb(8, 8, 31);
+    margin-top: 15px;
+    font-size: 40px;
+
 }
 
 .c-hover:hover {
